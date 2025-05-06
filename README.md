@@ -5,3 +5,6 @@
 </p>
 
 # Tenable-Nessus-Highlights
+
+
+➜ Conducted both authenticated and unauthenticated vulnerability scans using Tenable Nessus to identify and prioritize security risks.
